@@ -25,7 +25,7 @@ SECRET_KEY = 'pxe9bat@ywfmpl$zk0_!fx#5kzfum%&+b_i+9va)cj%)d^4_f5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['keerthana-app.herokuapp.com']
 
 
 # Application definition
